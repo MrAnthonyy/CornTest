@@ -18,15 +18,15 @@ BitCorn originally forked the PIVX Blockchain and has the following specificatio
 
 ### Coin Specs
 <table>
-<tr><td>**Coin Name:**</td><td>BITCORN</td></tr>
-<tr><td>**Coin Ticker:**</td><td>$CORN</td></tr> 
-<tr><td>**Algo**</td><td>Quark</td></tr>
-<tr><td>**Block Time**</td><td>60 Seconds</td></tr>
-<tr><td>**Difficulty Retargeting**</td><td>Every Block</td></tr>
-<tr><td>**Max Coin Supply**</td><td>100 BILLION CORN</td></tr>
-<tr><td>**Premine**</td><td>10 BILLION CORN</td></tr>
-<tr><td>**MN Collateral:**</td><td>10 MILLION</td></tr>
-<tr><td>**Coin prefix start:**</td><td>C</td></tr>    
+<tr><th>Coin Name:</th><td>BITCORN</td></tr>
+<tr><td>Coin Ticker:</td><td>$CORN</td></tr> 
+<tr><td>Algo</td><td>Quark</td></tr>
+<tr><td>Block Time</td><td>60 Seconds</td></tr>
+<tr><td>Difficulty Retargeting**</td><td>Every Block</td></tr>
+<tr><td>Max Coin Supply</td><td>100 BILLION CORN</td></tr>
+<tr><td>Premine</td><td>10 BILLION CORN</td></tr>
+<tr><td>MN Collateral:</td><td>10 MILLION</td></tr>
+<tr><td>Coin prefix start:</td><td>C</td></tr>    
 </table>
 
 ### Masternode & Proof of Stake Rewards Breakdown
