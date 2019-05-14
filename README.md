@@ -1,7 +1,7 @@
 BITCORN (CORN)
 ===================
 
-![bitcorn logo](https://i.ibb.co/56XKGBM/Bitcorn-banner.jpg")
+<p align="center">![bitcorn logo](https://i.ibb.co/56XKGBM/Bitcorn-banner.jpg")</p>
 
 What is Bitcorn?
 ----------------
