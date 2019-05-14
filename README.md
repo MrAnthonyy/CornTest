@@ -14,23 +14,28 @@ The P2P Tipping system has real use within our Twitch chat ecosystem: TIP ANYONE
 
 Coin Specs
 -----
+BitCorn originally forked the PIVX Blockchain and has the following specifications:
 
 ### Coin Specs
 <table>
+<tr><td>Coin Name:</td><td>BITCORN</td></tr>
+<tr><td>Coin Ticker:</td><td>$CORN</td></tr> 
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply</td><td>100 BILLION CORN</td></tr>
 <tr><td>Premine</td><td>10 BILLION CORN</td></tr>
+<tr><td>MN Collateral:</td><td>10 MILLION</td></tr>
+<tr><td>Coin prefix start:</td><td>C</td></tr>    
 </table>
 
 ### Masternode & Proof of Stake Rewards Breakdown
-<table>
+<center><table>
 <th>Block Height</th><th>Masternodes (MN)</th><th>Proof of Stake (PoS)</th>
 <tr><td>2 – 25,000</td><td>40%</td><td>60%</td></tr>
 <tr><td>25,001 - 420,000</td><td>80%</td><td>20%</td></tr>
 <tr><td>420,001+</td><td>40%</td><td>60%</td></tr>
-</table>
+</table></center>
 
 
 Links
