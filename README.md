@@ -26,9 +26,9 @@ Coin Specs
 ### Masternode & Proof of Stake Rewards Breakdown
 <table>
 <th>Block Height</th><th>Masternodes (MN)</th><th>Proof of Stake (PoS)</th>
-<th>2 – 25,000</th><th>40%</th><th>60%</th>
-<th>25,001 - 420,000</th><th>80%</th><th>20%</th>
-<th>420,001+</th><th>40%</th><th>60%</th>
+<tr><td>2 – 25,000</td><td>40%</td><td>60%</td></tr>
+<tr><td>25,001 - 420,000</td><td>80%</td><td>20%</td></tr>
+<tr><td>420,001+</td><td>40%</td><td>60%</td></tr>
 </table>
 
 
