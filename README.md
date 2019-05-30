@@ -13,11 +13,9 @@ Bitcorn is an educational Tool utilized by CTTV Staff to educate people on how c
 
 We also like to think of Bitcorn as somewhat of a new sort of ecosystem:  Point-of-Watching/Point-of-Idling. The reason being is that ALL SUBSCRIBERS currently earn $BITCORN per MINUTE of idling in chat at varying rates:
 
-Tier 3 earn 1 $BITCORN per minute
-
-Tier 2 earn 0.5 $BITCORN per minute
-
-Tier 1 earn 0.25 $BITCORN per minute
+Tier 3 earn 1 $BITCORN per minute<br>
+Tier 2 earn 0.5 $BITCORN per minute<br>
+Tier 1 earn 0.25 $BITCORN per minute<br>
 
 Coin Specs
 -----
