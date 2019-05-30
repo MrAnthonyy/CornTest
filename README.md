@@ -9,9 +9,9 @@ What is Bitcorn?
 
 The cryptocurrency, Bitcorn, is intended to be used as a fun peer-to-peer (P2P) tipping system that directly integrates with the Twitch streaming platform. It is a cryptocurrency with real use applications - a fun P2P tipping system with verified knowledgeable people behind it that are committed to helping the community learn everything about the cryptoverse, in an easy to understand way. TIP ANYONE IN CHAT! Not JUST the streamers!
 
-Bitcorn is an educational Tool utilized by CTTV Staff to educate people on how crypto currencies function on a technical level. It is used to help educate people on things such as how to set up masternodes, how Masternode and Proof-of-Stake ecosystems function, what real time transactions look like on the blockchain and many more real use applications being developed that will utilize Bitcorn. 
+Bitcorn is an educational Tool utilized by CryptoTradersTV Staff to educate people on how crypto currencies function on a technical level. It is used to help educate people on things such as how to set up masternodes, how Masternode and Proof-of-Stake ecosystems function, what real time transactions look like on the blockchain and many more real use applications being developed that will utilize Bitcorn. 
 
-We also like to think of Bitcorn as somewhat of a new sort of ecosystem:  Point-of-Watching/Point-of-Idling. The reason being is that ALL SUBSCRIBERS currently earn $BITCORN per MINUTE of idling in chat at varying rates:
+We also like to think of Bitcorn as somewhat of a new sort of ecosystem:  Point-of-Watching/Point-of-Idling. The reason being is that ALL SUBSCRIBERS currently earn $BITCORN per MINUTE of idling in the <a href="https://www.twitch.tv/cryptotraderstv">CryptoTraders TV twitch chat</a>  at varying rates:
 
 Tier 3 earn 1 $BITCORN per minute<br>
 Tier 2 earn 0.5 $BITCORN per minute<br>
