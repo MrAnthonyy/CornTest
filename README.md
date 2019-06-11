@@ -58,4 +58,4 @@ Wallet Downloads: https://github.com/BITCORNProject/bitcorn/releases/
 
 Whitepaper: https://cornpaper.nyc3.cdn.digitaloceanspaces.com/BitCornPaper.pdf
 
-Masternode Installation Guide: https://github.com/BITCORNtimes/BitCorn-MN-Script/blob/master/README.md
+Masternode Installation Guide: https://github.com/BITCORNProject/BITCORN-Masternode-script/blob/master/README.md
